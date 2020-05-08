@@ -4,10 +4,11 @@
 
 | Dataset Name | ( Healthy, Glaucoma) | URL 
 |--------------|----------------------|--------------------------------------------
-|ACRIMA       | (     309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
-|HRF          | (      15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
-|ORIGA        | (     482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
-|Total        | (     806,      579) | YET-TO-BE-RELEASED
+| ACRIMA       | (     309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
+| HRF          | (      15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
+| ORIGA        | (     482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
+| Drishti-GS1  | (      31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
+| Total        | (     837,      649) | YET-TO-BE-RELEASED
 
 
 ## Unlabeled Dataset Description
