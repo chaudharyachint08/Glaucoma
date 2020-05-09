@@ -8,7 +8,7 @@
 | HRF          | (      15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
 | ORIGA        | (     482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
 | Drishti-GS1  | (      31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
-| Total        | (     837,      649) | YET-TO-BE-RELEASED
+| Total        | (     837,      649) | 
 
 
 ## Unlabeled Dataset Description
@@ -35,8 +35,8 @@
 
 https://hzfu.github.io/index.html#Project-page
 
-Note: Below professor mentions about REFUGE and AGE challenges on Glaucome research
-I hope to get more labeled data from both these challenges also, and has registered into the same
+Note: Above professor mentions about REFUGE2 (REtinal FUndus Glaucoma ChallengE), 2nd version of challenge
+Here 1200 images from 2 devices will be released as training data at first. Hence has registered into the same
 
 Kindly look into BIOMASA http://biomisa.org/index.php/downloads/
 There request for the dataset is not working, please contact the authors of this website.
