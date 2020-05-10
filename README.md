@@ -8,16 +8,14 @@
 | HRF                    | (       15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
 | ORIGA                  | (      482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
 | Drishti-GS1            | (       31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
-| REFUGE-1 (Train+Valid) | (      720,       80) | http://ai.baidu.com/broad/subordinate?dataset=gon
-| Total                  | (     1557,      729) | YET-TO-DECLARED
+| REFUGE-1               | (     1080,      120) | http://ai.baidu.com/broad/subordinate?dataset=gon ; https://refuge.grand-challenge.org/Download/
+| Total                  | (     1917,      769) | YET-TO-DECLARED
 
 ## Unlabeled Dataset Description
 
 | Dataset Name    | Count | URL 
 |-----------------|-------|------------------------------------------------------------
 | RIGA            |   749 | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en
-| REFUGE-1 (Test) |   400 | http://ai.baidu.com/broad/subordinate?dataset=gon
-| Total           |  1140 | YET-TO-DECLARED
 
 ## Related Literature
 
