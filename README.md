@@ -2,23 +2,22 @@
 
 ## Labeled Dataset Description
 
-| Dataset Name | ( Healthy, Glaucoma) | URL 
-|--------------|----------------------|--------------------------------------------
-| ACRIMA       | (     309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
-| HRF          | (      15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
-| ORIGA        | (     482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
-| Drishti-GS1  | (      31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
-| Total        | (     837,      649) | 
-
-REFUGE-1 Dats splits, 800 labeled, but 400 Unlabeled test images hosted on
-http://ai.baidu.com/broad/subordinate?dataset=gon
+| Dataset Name           | (  Healthy, Glaucoma) | URL 
+|------------------------|----------------------|--------------------------------------------
+| ACRIMA                 | (      309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
+| HRF                    | (       15,       15) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
+| ORIGA                  | (      482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
+| Drishti-GS1            | (       31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
+| REFUGE-1 (Train+Valid) | (      720,       80) | http://ai.baidu.com/broad/subordinate?dataset=gon
+| Total                  | (     1557,      729) | YET-TO-DECLARED
 
 ## Unlabeled Dataset Description
 
-|Dataset Name | Count | URL 
-|-------------|-------|------------------------------------------------------------
-|RIGA         |   749 | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en
-
+| Dataset Name    | Count | URL 
+|-----------------|-------|------------------------------------------------------------
+| RIGA            |   749 | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en
+| REFUGE-1 (Test) |   400 | http://ai.baidu.com/broad/subordinate?dataset=gon
+| Total           |  1140 | YET-TO-DECLARED
 
 ## Related Literature
 
