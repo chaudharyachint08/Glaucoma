@@ -10,6 +10,8 @@
 | Drishti-GS1  | (      31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
 | Total        | (     837,      649) | 
 
+REFUGE-1 Dats splits, 800 labeled, but 400 Unlabeled test images hosted on
+http://ai.baidu.com/broad/subordinate?dataset=gon
 
 ## Unlabeled Dataset Description
 
