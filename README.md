@@ -9,7 +9,9 @@
 | ORIGA                  | (      482,      168) | http://www5.cs.fau.de/research/data/fundus-images/
 | Drishti-GS1            | (       31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
 | REFUGE-1               | (     1080,      120) | http://ai.baidu.com/broad/subordinate?dataset=gon ; https://refuge.grand-challenge.org/Download/
-| Total                  | (     1917,      769) | YET-TO-DECLARED
+| RIM-ONE-v2             | (      255,      200) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+| RIM-ONE-v3             | (       85,       74) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+| Total                  | (     2257,     1043) | 3300 Labeled Imaged (link YET-TO-DECLARED)
 
 ## Unlabeled Dataset Description
 
