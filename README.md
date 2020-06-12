@@ -1,21 +1,24 @@
 # Glaucoma
 
-## STEPs to be followed
+## Steps to be followed
 - [ ] Contrast adjustment e.g. CLACHE
 - [ ] Outlier Detection for removal of Non-gradable images (Capturing Novelty and Removing Anamoly)
-- [ ] Image Classification Train & Test (10-crop) time augmentation
-- [ ] Grad-Cam for Attention Region, and Averaging over Ensembles
-- [ ] OpenAI Gradient Checkpointing (20% slow train with sqrt(N) Memory Usage)
-- [ ] K-Fac (Second order approximation for DL)
-- [ ] Tensorflow Differentially Privacy
 - [ ] Data Augmentation and Debiasing using VAE/GAN
-- [ ] Sell-supervised Transfer Learning Task Design
+- [ ] Image Classification Train & Test (10-crop) time augmentation
+https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/
+- [ ] OpenAI Gradient Checkpointing (20% slow train with sqrt(N) Memory Usage)
+- [ ] IMAGENET, Fine-Tuned and Self-supervised Transfer Learning
+- [ ] Grad-Cam for Attention Region, and Averaging over Ensembles
+- [ ] K-FAC (Second order approximation for DL)
 - [ ] Probabilitic Sampling Algorithm for Better Training
 - [ ] Private Aggregation of Teacher Ensembles (PATE) with Sampling over soft labels and sample weights
-- [ ] KL-Divergence & other loss loss functions
+- [ ] KL-Divergence & other loss functions for learning approximate probability distribution
 - [ ] Cyclic Learning rate, for Auto-matic Ensembling during training
-- [ ] Attention Mechanism
+- [ ] Attention Mechanism in Architecture Design
 - [ ] Trying out input in various color space, e.g. RGB, YUV, HSV and GREY
+- [ ] Tensorflow Differentially Privacy
+
+
 
 ## Labeled Dataset Description
 
@@ -28,7 +31,7 @@
 | REFUGE-1               | (     1080,      120) | http://ai.baidu.com/broad/subordinate?dataset=gon ; https://refuge.grand-challenge.org/Download/
 | RIM-ONE-v2             | (      255,      200) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
 | RIM-ONE-v3             | (       85,       74) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
-| Total                  | (     2257,     1043) | 3300 Labeled Imaged (link YET-TO-DECLARED)
+| Total                  | (     2257,     1043) | 3300 Labeled Images (link YET-TO-DECLARED)
 
 ## Unlabeled Dataset Description
 
