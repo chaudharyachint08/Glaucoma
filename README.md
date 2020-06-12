@@ -1,20 +1,21 @@
 # Glaucoma
 
 ## STEPs to be followed
-[ ] Contrast adjustment e.g. CLACHE
-[ ] Outlier Detection for removal of Non-gradable images (Capturing Novelty and Removing Anamoly)
-[ ] Image Classification Train & Test (10-crop) time augmentation
-[ ] Grad-Cam for Attention Region, and Averaging over Ensembles
-[ ] OpenAI Gradient Checkpointing (20% slow train with sqrt(N) Memory Usage)
-[ ] K-Fac (Second order approximation for DL)
-[ ] Tensorflow Differentially Privacy
-[ ] Data Augmentation and Debiasing using VAE/GAN
-[ ] Sell-supervised Transfer Learning Task Design
-[ ] Probabilitic Sampling Algorithm for Better Training
-[ ] Private Aggregation of Teacher Ensembles (PATE) with Sampling over soft labels and sample weights
-[ ] KL-Divergence & other loss loss functions
-[ ] Cyclic Learning rate, for Auto-matic Ensembling during training
-
+- [ ] Contrast adjustment e.g. CLACHE
+- [ ] Outlier Detection for removal of Non-gradable images (Capturing Novelty and Removing Anamoly)
+- [ ] Image Classification Train & Test (10-crop) time augmentation
+- [ ] Grad-Cam for Attention Region, and Averaging over Ensembles
+- [ ] OpenAI Gradient Checkpointing (20% slow train with sqrt(N) Memory Usage)
+- [ ] K-Fac (Second order approximation for DL)
+- [ ] Tensorflow Differentially Privacy
+- [ ] Data Augmentation and Debiasing using VAE/GAN
+- [ ] Sell-supervised Transfer Learning Task Design
+- [ ] Probabilitic Sampling Algorithm for Better Training
+- [ ] Private Aggregation of Teacher Ensembles (PATE) with Sampling over soft labels and sample weights
+- [ ] KL-Divergence & other loss loss functions
+- [ ] Cyclic Learning rate, for Auto-matic Ensembling during training
+- [ ] Attention Mechanism
+- [ ] Trying out input in various color space, e.g. RGB, YUV, HSV and GREY
 
 ## Labeled Dataset Description
 
