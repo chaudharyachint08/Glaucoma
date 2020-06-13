@@ -17,7 +17,7 @@ https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-i
 - [ ] Attention Mechanism in Architecture Design
 - [ ] Trying out input in various color space, e.g. RGB, YUV, HSV and GREY
 - [ ] Tensorflow Differentially Privacy
-
+- [ ] COnvolutional model shuffling during training with shared fully connected part
 
 
 ## Labeled Dataset Description
