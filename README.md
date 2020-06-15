@@ -17,21 +17,33 @@ https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-i
 - [ ] Attention Mechanism in Architecture Design
 - [ ] Trying out input in various color space, e.g. RGB, YUV, HSV and GREY
 - [ ] Tensorflow Differentially Privacy
-- [ ] COnvolutional model shuffling during training with shared fully connected part
+- [ ] Convolutional model shuffling during training with shared fully connected part
 
 
 ## Labeled Dataset Description
 
-| Dataset Name           | (  Healthy, Glaucoma) | URL 
-|------------------------|----------------------|--------------------------------------------
-| ACRIMA                 | (      309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
-| HRF                    | (       15,       15) | http://www5.cs.fau.de/research/data/fundus-images/
-| ORIGA                  | (      482,      168) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
-| Drishti-GS1            | (       31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
-| REFUGE-1               | (     1080,      120) | http://ai.baidu.com/broad/subordinate?dataset=gon ; https://refuge.grand-challenge.org/Download/
-| RIM-ONE-v2             | (      255,      200) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
-| RIM-ONE-v3             | (       85,       74) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
-| Total                  | (     2257,     1043) | 3300 Labeled Images (link YET-TO-DECLARED)
+### Glaucoma Only Dataset Description
+
+| Dataset Name                       | (  Healthy, Glaucoma) | URL 
+|------------------------------------|----------------------|--------------------------------------------
+| ACRIMA                             | (      309,      396) | https://figshare.com/articles/CNNs_for_Automatic_Glaucoma_Assessment_using_Fundus_Images_An_Extensive_Validation/7613135
+| HRF                                | (       15,       15) | http://www5.cs.fau.de/research/data/fundus-images/
+| ORIGA                              | (      482,      168) | https://drive.google.com/drive/folders/1VPCvVsPgrfPNIl932xgU3XC_WFLUsXJR
+| Drishti-GS1                        | (       31,       70) | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
+| REFUGE-1                           | (     1080,      120) | http://ai.baidu.com/broad/subordinate?dataset=gon ; https://refuge.grand-challenge.org/Download/
+| RIM-ONE-v2                         | (      255,      200) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+| RIM-ONE-v3                         | (       85,       74) | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+| Kaggle_GlaucomaDataset_HimanshuAgg | (      511,      511) | https://www.kaggle.com/himanshuagarwal1998/glaucomadataset/discussion
+| Total                              | (     2768,     1554) | 4322 Labeled Images (link YET-TO-DECLARED)
+
+
+### Multi-class/label Dataset Description
+<pre>
+Normal (N), Diabetes (D), Glaucoma (G), Cataract (C), AMD (A), Hypertension (H), Myopia (M), Other diseases/abnormalities (O)
+</pre>
+| Dataset Name   | (  Train+Valid, Test) | Comments                  | URL 
+|----------------|-----------------------|---------------------------|--------------------------------------------
+| Kaggle_ODIR-5K | (         7000, 1000) | Test Set labels not given | https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
 
 ## Unlabeled Dataset Description
 
