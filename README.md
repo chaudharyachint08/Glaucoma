@@ -10,6 +10,7 @@ https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-i
 - [ ] IMAGENET, Fine-Tuned and Self-supervised Transfer Learning
 - [ ] Grad-Cam for Attention Region, and Averaging over Ensembles
 - [ ] K-FAC (Second order approximation for DL)
+- [ ] Shared convolutions
 - [ ] Probabilitic Sampling Algorithm for Better Training
 - [ ] Private Aggregation of Teacher Ensembles (PATE) with Sampling over soft labels and sample weights
 - [ ] KL-Divergence & other loss functions for learning approximate probability distribution
