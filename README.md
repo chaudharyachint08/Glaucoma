@@ -65,6 +65,9 @@ Normal (N), Diabetes (D), Glaucoma (G), Cataract (C), AMD (A), Hypertension (H),
 | 2018 | https://arxiv.org/abs/1805.07549
 
 
+## TIPS Section
+Hoping to get something best out of it :)
+
 ## Notes section
 
 https://hzfu.github.io/index.html#Project-page
