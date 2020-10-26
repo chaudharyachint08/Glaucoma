@@ -38,7 +38,7 @@ https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-i
 | Total                              | (     2768,     1554) | 4322 Labeled Images (link YET-TO-DECLARED)
 
 
-### Multi-class/label Dataset Description
+## Multi-class/label Dataset Description
 <pre>
 Normal (N), Diabetes (D), Glaucoma (G), Cataract (C), AMD (A), Hypertension (H), Myopia (M), Other diseases/abnormalities (O)
 </pre>
